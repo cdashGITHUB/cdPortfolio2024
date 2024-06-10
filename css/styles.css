@@ -116,6 +116,7 @@ footer a:hover {
 ------------------------------------*/
 footer {
     padding-top: 3%;
+    align-items: center;
     background: #222;
     color: #d3d4d6;
 }
