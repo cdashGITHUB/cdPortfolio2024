@@ -115,8 +115,9 @@ footer a:hover {
 /* FOOTER
 ------------------------------------*/
 footer {
+    display: inline-block;
     padding-top: 3%;
-    align-items: center;
+    vertical-align: middle;
     background: #222;
     color: #d3d4d6;
 }
