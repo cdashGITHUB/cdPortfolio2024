@@ -91,7 +91,7 @@ footer a:hover {
 /* HOME
 ------------------------------------*/
 .home {
-    background: url(../images/computer.jpg) no-repeat;
+    background: url(../images/computer.jpg) no-repeat; /* Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868496">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868496">Pixabay</a> */
     background-size: cover;
     display: flex;
     flex-direction: column;
